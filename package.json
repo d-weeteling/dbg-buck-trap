@@ -1,0 +1,19 @@
+{
+  "name": "dbg-buck-trap",
+  "version": "0.0.1",
+  "description": "Debugging - empty lizard-client releases made by buck-trap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-weeteling/dbg-buck-trap.git"
+  },
+  "author": "dirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-weeteling/dbg-buck-trap/issues"
+  },
+  "homepage": "https://github.com/d-weeteling/dbg-buck-trap#readme"
+}
