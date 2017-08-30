@@ -4,7 +4,8 @@
   "description": "Debugging - empty lizard-client releases made by buck-trap",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buck-trap": "buck-trap -a"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/d-weeteling/dbg-buck-trap/issues"
   },
-  "homepage": "https://github.com/d-weeteling/dbg-buck-trap#readme"
+  "homepage": "https://github.com/d-weeteling/dbg-buck-trap#readme",
+  "devDependencies": {
+    "buck-trap": "^1.0.14"
+  }
 }
