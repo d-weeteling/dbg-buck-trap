@@ -1,6 +1,6 @@
 {
   "name": "dbg-buck-trap",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "description": "Debugging - empty lizard-client releases made by buck-trap",
   "main": "index.html",
   "scripts": {
@@ -8,6 +8,7 @@
     "buck-trap": "buck-trap -a"
   },
   "repository": {
+    "name": "dbg-buck-trap",
     "type": "git",
     "url": "git+https://github.com/d-weeteling/dbg-buck-trap.git"
   },
